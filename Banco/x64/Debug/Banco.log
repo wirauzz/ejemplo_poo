@@ -1,5 +1,5 @@
 ﻿  Cliente.cpp
-C:\Users\wrami\Carpeta de la universidad\3er Semestre\Programacion II\Herencia y Polimorfismo\Banco\Banco\Cliente.cpp(80,11): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\Users\wrami\Carpeta de la universidad\3er Semestre\Programacion II\Herencia y Polimorfismo\Banco\ejemplo_poo\Banco\Cliente.cpp(80,11): warning C4129: ' ': secuencia de escape de carácter no reconocida
   Cuenta.cpp
   C_Ahorro.cpp
   C_Corriente.cpp
@@ -10,4 +10,4 @@ C:\Users\wrami\Carpeta de la universidad\3er Semestre\Programacion II\Herencia y
   Source.cpp
   Transacciones.cpp
   Generando código...
-  Banco.vcxproj -> C:\Users\wrami\Carpeta de la universidad\3er Semestre\Programacion II\Herencia y Polimorfismo\Banco\x64\Debug\Banco.exe
+  Banco.vcxproj -> C:\Users\wrami\Carpeta de la universidad\3er Semestre\Programacion II\Herencia y Polimorfismo\Banco\ejemplo_poo\x64\Debug\Banco.exe
